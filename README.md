@@ -1,2 +1,2 @@
-# Practica-Jwt_Y_Security
+# Practica-JwtYSecurity
 JWT y SECURITY de la manera actualizada.
